@@ -68,7 +68,7 @@ src/
 5. Rode a classe **Main.java** (botão direito sobre o arquivo → **Run As → Java Application**).
 
 ## Download
-📦 [Código-fonte + bibliotecas necessárias — link aqui]
+📦 (https://github.com/jojoelwe/jogo-java/releases/tag/1.0)
 
 ## Reportando bugs
 Encontrou algum bug ou problema para rodar o jogo? Abra uma [issue](https://github.com/jojoelwe/jogo-java/issues) descrevendo o que aconteceu, em qual parte do jogo, e qual erro apareceu (se houver).
